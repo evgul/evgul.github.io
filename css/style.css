@@ -96,6 +96,9 @@ a:active,a:focus,a:visited{
 	text-decoration: none;
 	border-bottom: 1px dotted #333;
 }
+.modal-btn a{
+	color: #333;
+}
 footer{
 	background: #646464;
 	color: #fff;
